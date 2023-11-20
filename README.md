@@ -28,4 +28,8 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 
 ## Ordenação Recursiva
 
-## Arvores Binárias
+## Resumo Arvores Binárias
+<P>Uma Arvore Binaria é uma Estrutura de Dados Recursiva onde cada Nó pode ter Dois Filhos no maximo</P>
+
+
+
