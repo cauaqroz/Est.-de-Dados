@@ -17,7 +17,7 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 >[!Important]
 >Source-Code: [Pilha](https://github.com/cauaqroz/P2-Est.-de-Dados/blob/main/Pilha-Fila/Pilha.java)<br>
 >Source-Code: [Fila](https://github.com/cauaqroz/P2-Est.-de-Dados/blob/main/Pilha-Fila/Fila.java)<br>
->Example: [Pilha e Fila](https://github.com/cauaqroz/P2-Est.-de-Dados/tree/main/Pilha-Fila)
+>Example: [Pilha e Fila](https://github.com/cauaqroz/P2-Est.-de-Dados/tree/main/Pilha-Fila/Readme.md)
 
 ## Resumo Fila Circular
 <p>Uma Fila Circular é uma estrutura de dados baseados no FIFO,<br> E a ultima posição é conectada de volta com a primeira posição</p>
