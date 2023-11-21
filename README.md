@@ -1,5 +1,5 @@
-# Estudo Prova - P2
-<sup>Texto</sup>
+# Resumo de Estudo Est. Dados
+Estudo de revisaõ do segundo semestre estrutura de dados
 
 ## Resumo Fila e Pilha
 
