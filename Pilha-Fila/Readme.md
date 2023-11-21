@@ -3,21 +3,45 @@
 >[!WARNING]
 > Topo da pilha é Igual ao indice <br>Do ultimo elemento adicionado
 
-| pilha | P1: | | |
-| --- | --- | --- | ---|
-| dados | 5 | 18 | 4 |
-| indice | 0 | 1 | 2 |
-| topo | = | 2 |  |
-
-#
-
-| - | - |
-| -- | -- |
-| 2 | |
-| 1 | |
-| 0 | |
 
 >Pilha Vazia Topo é igual a "-1"
+
+| - | - | pilha | P1: | | |
+| -- | -- | --- | --- | --- | ---|
+| 2 | | dados |  |  |  |
+| 1 | | indice | 0 | 1 | 2 |
+| 0 | | topo | = | -1 |  |
+
+#
+>[!note]
+>Adiciona 5
+
+| - | - | pilha | P1: | | |
+| -- | -- | --- | --- | --- | ---|
+| 2 | | dados | 5 |  |  |
+| 1 | | indice | 0 | 1 | 2 |
+| 0 | 5 | topo | = | 0 |  |
+
+#
+>[!note]
+>Adiciona 18
+
+| - | - | pilha | P1: | | |
+| -- | -- | --- | --- | --- | ---|
+| 2 | | dados | 5 | 18 |  |
+| 1 | 18 | indice | 0 | 1 | 2 |
+| 0 | 5 | topo | = | 1 |  |
+
+#
+>[!note]
+>Adiciona 4
+
+| - | - | pilha | P1: | | |
+| -- | -- | --- | --- | --- | ---|
+| 2 | 4 | dados | 5 | 18 | 4 |
+| 1 | 18 | indice | 0 | 1 | 2 |
+| 0 | 5 | topo | = | 2 |  |
+
 
 <BR>
 <BR>
