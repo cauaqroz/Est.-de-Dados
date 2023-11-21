@@ -16,7 +16,8 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 
 >[!Important]
 >Source-Code: [Pilha]()<br>
->Source-Code: [Fila]()
+>Source-Code: [Fila]()<br>
+>Exemplos: [Pilha e Fila]()
 
 ## Fila Circular
 
