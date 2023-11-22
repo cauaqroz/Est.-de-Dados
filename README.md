@@ -37,11 +37,12 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 >Source-code: [Lista-Ligada]()<br>
 >Example: [Lista-Ligada]()
 
-## Tabela de Espalhamento
+## Resumo Tabela de Espalhamento
+<p>A tabela de espalhamento, também conhecida como tabela hash, <br>é uma estrutura de dados que associa chaves de pesquisa a valores. <br>Seu objetivo é, a partir de uma chave simples, fazer uma busca rápida e obter o valor desejado</p>
 
-## Recursividade
+## Resumo Recursividade
 
-## Ordenação Recursiva
+## Resumo Ordenação Recursiva
 
 ## Resumo Arvores Binárias
 <P>Uma Arvore Binaria é uma Estrutura de Dados Recursiva <br>Onde cada Nó pode ter Dois Filhos no maximo</P>
