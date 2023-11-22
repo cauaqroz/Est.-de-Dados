@@ -31,7 +31,11 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 >Example: [Fila-Circular](https://github.com/cauaqroz/P2-Est.-de-Dados/blob/main/Fila-Circular/Readme.md)
 
 ## Resumo Lista Ligada
-Uma lista ligada é uma estrutura de dados linear, composta por uma sequência de nós,<br> onde cada nó contém um valor e uma referência para o próximo nó na sequência. <br>Isso permite uma série de operações eficientes, como inserção, remoção e busca de elementos.
+<p>Uma lista ligada é uma estrutura de dados linear, composta por uma sequência de nós,<br> onde cada nó contém um valor e uma referência para o próximo nó na sequência. <br>Isso permite uma série de operações eficientes, como inserção, remoção e busca de elementos.</p>
+
+>[!Important]
+>Source-code: [Lista-Ligada]()<br>
+>Example: [Lista-Ligada]()
 
 ## Tabela de Espalhamento
 
