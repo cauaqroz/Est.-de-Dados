@@ -34,12 +34,15 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 <p>Uma lista ligada é uma estrutura de dados linear, composta por uma sequência de nós,<br> onde cada nó contém um valor e uma referência para o próximo nó na sequência. <br>Isso permite uma série de operações eficientes, como inserção, remoção e busca de elementos.</p>
 
 >[!Important]
->Source-code: [Lista-Ligada]()<br>
->Example: [Lista-Ligada]()
+>Source-code: [Lista-Ligada](https://github.com/cauaqroz/Est.-de-Dados/tree/main/Lista-Ligada)<br>
+>Example: [Lista-Ligada](https://github.com/cauaqroz/Est.-de-Dados/tree/main/Lista-Ligada/Readme.md)
 
 ## Resumo Tabela de Espalhamento
 <p>A tabela de espalhamento, também conhecida como tabela hash, <br>é uma estrutura de dados que associa chaves de pesquisa a valores. <br>Seu objetivo é, a partir de uma chave simples, fazer uma busca rápida e obter o valor desejado</p>
 
+>[!Important]
+>Source-code: [Tabela-De-Espalhamento](https://github.com/cauaqroz/Est.-de-Dados/tree/main/Tabela-de-Espalhamento)<br>
+>Example: [Tabela-De-Espalhamento](https://github.com/cauaqroz/Est.-de-Dados/tree/main/Tabela-de-Espalhamento/Readme.md)
 ## Resumo Recursividade
 
 ## Resumo Ordenação Recursiva
