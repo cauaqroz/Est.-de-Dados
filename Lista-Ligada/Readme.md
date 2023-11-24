@@ -17,4 +17,4 @@
 </p>
 
 >[!Important]
->Source-Code: [Exercicio](https://github.com/cauaqroz/Est.-de-Dados/edit/main/Lista-Ligada/EstudoProva.java)
+>Source-Code: [Exercicio](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Lista-Ligada/EstudoProva.Java)
