@@ -4,8 +4,8 @@ Estudo de revisaõ do segundo semestre estrutura de dados
 <P> listas sao um conjunto ordenado de elementos</P>
 
 >[!Important]
->Source-code: [Lista]() <br>
->Example: [Listas]()
+>Source-code: [Lista](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Listas/Lista.java) <br>
+>Example: [Listas](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Listas/Readme.md)
 
 ## Resumo Fila e Pilha
 
@@ -54,8 +54,8 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 <p>Recursividade consiste em dividir o problema no menor caso trivial dele</p>
 
 >[!Important]
->Source-code: [Fatorial]()<br>
->Examples: [Recursividade]()
+>Source-code: [Fatorial](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Recursividade/Fatorial.Java)<br>
+>Examples: [Recursividade](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Recursividade/readme.md)
 
 ## Resumo Ordenação Recursiva
 
@@ -66,7 +66,8 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 <P>Uma Arvore Binaria é uma Estrutura de Dados Recursiva <br>Onde cada Nó pode ter Dois Filhos no maximo</P>
 
 >[!Important]
->
+>Source-code: [Arvore-Binaria](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Arvore-Binaria/Arvore.Java)<br>
+>Example: [Arvore-Binaria](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Arvore-Binaria/Readme.md)
 
 ## Resumo Notação Assintotica
 
