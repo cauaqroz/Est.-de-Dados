@@ -3,7 +3,7 @@ Estudo de revisaõ do segundo semestre estrutura de dados
 ## Resumo de Listas
 <P> listas sao um conjunto ordenado de elementos</P>
 
->[[!Important]
+>[!Important]
 >Source-code: [Lista]() <br>
 >Example: [Listas]()
 
