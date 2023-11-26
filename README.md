@@ -58,9 +58,12 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 >Examples: [Recursividade](https://github.com/cauaqroz/Est.-de-Dados/blob/main/Recursividade/readme.md)
 
 ## Resumo Ordenação Recursiva
+<p>O algoritmo de ordenação recursiva funciona dividindo a lista de elementos em duas partes menores, ordenando cada parte recursivamente e,<br> em seguida, combinando as duas partes ordenadas em uma única lista ordenada</p>
 
 >[!Important]
->
+>Source-Code: [MergeSort]() <br>
+>Source-Code: [QuickSort]() <br>
+>Example: [Ordenação-Recursiva]()
 
 ## Resumo Arvores Binárias
 <P>Uma Arvore Binaria é uma Estrutura de Dados Recursiva <br>Onde cada Nó pode ter Dois Filhos no maximo</P>
