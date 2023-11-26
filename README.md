@@ -49,12 +49,24 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 >[!Important]
 >Source-code: [Tabela-De-Espalhamento](https://github.com/cauaqroz/Est.-de-Dados/tree/main/Tabela-de-Espalhamento)<br>
 >Example: [Tabela-De-Espalhamento](https://github.com/cauaqroz/Est.-de-Dados/tree/main/Tabela-de-Espalhamento/Readme.md)
+
 ## Resumo Recursividade
+<p>Recursividade consiste em dividir o problema no menor caso trivial dele</p>
+
+>[!Important]
+>Source-code: [Fatorial]()<br>
+>Examples: [Recursividade]()
 
 ## Resumo Ordenação Recursiva
 
+>[!Important]
+>
+
 ## Resumo Arvores Binárias
 <P>Uma Arvore Binaria é uma Estrutura de Dados Recursiva <br>Onde cada Nó pode ter Dois Filhos no maximo</P>
+
+>[!Important]
+>
 
 ## Resumo Notação Assintotica
 
