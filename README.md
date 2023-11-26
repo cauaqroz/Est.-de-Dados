@@ -50,5 +50,6 @@ o ultimo elemento a ser inserido é o primeiro a ser retirado</P>
 ## Resumo Arvores Binárias
 <P>Uma Arvore Binaria é uma Estrutura de Dados Recursiva <br>Onde cada Nó pode ter Dois Filhos no maximo</P>
 
+## Resumo Notação Assintotica
 
 
