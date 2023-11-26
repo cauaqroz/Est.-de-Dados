@@ -1,5 +1,11 @@
 # Resumo de Estudo Est. Dados
 Estudo de revisaõ do segundo semestre estrutura de dados
+## Resumo de Listas
+<P> listas sao um conjunto ordenado de elementos</P>
+
+>[[!Important]
+>Source-code: [Lista]() <br>
+>Example: [Listas]()
 
 ## Resumo Fila e Pilha
 
