@@ -14,6 +14,10 @@
 <h2> Estatica:</h2>
 <p>Quantidade Constante de Elementos, <br>Aloca espaço de acordo com a quantidade de elementos</p>
 
+|  | | 0 | 1 | 2 | | || |
+|--|--|--|-- | -- | -- | -- | -- |--|
+| Dados | | 15 | 30 | 53 | | tamanho | 3 |
+
 >[!Note]
 >Usa Arrays
 
